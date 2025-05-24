@@ -5,8 +5,7 @@ Welcome to the official GitHub organization for **ai-terminal** — your intelli
 
 ## 🚀 About ai-terminal
 
-**ai-terminal** is an open-source, terminal application designed to enhance your command-line experience with integrated AI capabilities. Built using Tauri and Angular, it offers a modern UI and intelligent features to streamline your workflow.([GitHub][2])
-idation**: Prevent dangerous operations with intelligent command validation before execution.
+**ai-terminal** is an open-source, terminal application designed to enhance your command-line experience with integrated AI capabilities. Built using Tauri and Angular, it offers a modern UI and intelligent features to streamline your workflow.
 
 ## 🌐 Learn More
 
